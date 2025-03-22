@@ -1,0 +1,8 @@
+[32mINFO    [0m BasePage:BasePage.py:32 Enter the text value as : testingto the element : //input[@type = 'text']
+[32mINFO    [0m BasePage:BasePage.py:32 Enter the text value as : A9yldsfVJyFFto the element : //input[@type = 'password']
+[32mINFO    [0m BasePage:BasePage.py:21 Clicked on the element ::  //div[@class= 'MuiBox-root jss22']/button
+[32mINFO    [0m BasePage:BasePage.py:21 Clicked on the element ::  //body/div[@id='root']/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[1]/*[1]
+[32mINFO    [0m BasePage:BasePage.py:21 Clicked on the element ::  //body/div[@id='root']/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]
+[32mINFO    [0m BasePage:BasePage.py:21 Clicked on the element ::  //body/div[@id='root']/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]
+[32mINFO    [0m BasePage:BasePage.py:21 Clicked on the element ::  //body/div[@id='root']/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]/div[1]/*[1]
+[32mINFO    [0m BasePage:BasePage.py:47 element value is :: Weighted Average Intensity (Revenue)
